@@ -270,4 +270,5 @@ Once the job is completed, verify that:
 - **Plans for extending the GCP roadmap to our advantage in the future**
   
   **Answer**: Have already mentioned through this document in a few places. Moving to GCP give the opportunity for a paradigm shift in many senses. Managed services allow more availability and garantee a stable level of quality of the services that we offer. Operational costs are reduced but only on the long run it will be proven if there is an actual overall cost reduction taking into account what's paid to Google for their services. BigQuery could replace Hadoop potentially, simplifying the architecture while introducing more capabilities. And again, Artificial Intelligence and Machine Learning could have solid bases in this ecosystem. One aspect that I believe is very true and tangible is the fact that working in the Cloud forces you to build solutions "as they should be": documentation, tutorial and articles somehow guide you to do things according to best practices that have been built in many years of experience. This is to me an unvaluable learning, personal but also from an organizational point of view. Returning to on-prem or keeping a parallel environment in a hybrid solution, will definitively benefit of this learning. 
-#
+##   T e r r a f o r m _ H a d o o p - 2 - G C P  
+ 
